@@ -2,9 +2,9 @@
 
 credentials:
   usernames:
-    gagan:
-      email: gaganmanku96@gmail.com
-      name: Gagandeep Singh
+    lavi:
+      email: pawarlavi928@gmail.com
+      name:  lavi pawar
       city: Noida
       area: Sector 128
       role: Admin
@@ -15,4 +15,4 @@ cookie:
   name: random_cookie_name
 preauthorized:
   emails:
-  - gaganmanku96@gmail.com
+  - pawarlavi928@gmail.com
